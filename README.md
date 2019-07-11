@@ -1,2 +1,2 @@
 # nothing
-This repository does nothing.
+This repository does not a thing.
